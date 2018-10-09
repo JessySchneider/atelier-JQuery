@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 oct. 2018, 16:37:46
+    Author     : Administrateur
+*/
+
+.patate{
+    padding:15px;
+    background-color:#ebbf2f;
+}
+
+input[type='button']{
+    padding:15px;
+    transition:all 0.3s ease-out;
+  
+}
+
+input[type='button']:hover{
+    background-color: #3991f5;
+    border:1px solid #3991f5;
+}
+
+.grande-police{
+    font-size:30px;
+}
+
+.vert{
+    background-color: green;
+    border:1px solid green;
+}
